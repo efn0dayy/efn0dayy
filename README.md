@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm efn0day</h1>
-<h3 align="center">I am passionate about cybersecurity and development. I live in Turkey, I am 24 years old, and I work at StrixEye</h3>
+<h3 align="center">I am passionate about cybersecurity and development. I live in Turkey, I am 28 years old, and I work at StrixEye</h3>
 
 - 🌐 I’m currently working on **Automated Intrusion Detection and Response Platform (IDS/IR)**
 
